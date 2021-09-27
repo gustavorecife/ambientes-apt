@@ -1,4 +1,4 @@
-# APARTAMENTO
+# APARTAMENTO :derelict_house:
 
 ### Sala
 
@@ -12,5 +12,3 @@
 8. Canto alemão
 9. Espelho
 10. Porta ripada
-
-### 
