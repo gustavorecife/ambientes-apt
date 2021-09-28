@@ -13,5 +13,4 @@
 9. Espelho
 10. Porta ripada
 11. Quadro
-=======
-11. Tapete
+12. Tapete
